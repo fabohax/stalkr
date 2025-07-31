@@ -1,10 +1,10 @@
-## Stacks & Clarity Docs in one repo
+# Stacks & Clarity Docs in one repo
 
 is intended to be up-to-date documentation for using as direct reference / context for LLMs
 
 glad to receive PRs
 
-# Sources
+## Sources
 
 blockchain-api-client: https://hirosystems.github.io/stacks-blockchain-api/client/
 
