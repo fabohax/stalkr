@@ -14,4 +14,4 @@ stacks-connect: https://docs.hiro.so/reference/stacks.js/packages/connect
 
 stacks-network: https://docs.hiro.so/reference/stacks.js/packages/network
 
-stacks-transactions:https://docs.hiro.so/reference/stacks.js/packages/transactions
+stacks-transactions: https://docs.hiro.so/reference/stacks.js/packages/transactions
