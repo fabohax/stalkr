@@ -8,10 +8,10 @@ glad to receive PRs
 
 https://hirosystems.github.io/stacks-blockchain-api/client/
 
-[https://docs.stacks.co/reference/types]
+https://docs.stacks.co/reference/types
 
-[https://docs.hiro.so/reference/stacks.js/packages/connect]
+https://docs.hiro.so/reference/stacks.js/packages/connect
 
-[https://docs.hiro.so/reference/stacks.js/packages/network]
+https://docs.hiro.so/reference/stacks.js/packages/network
 
-[https://docs.hiro.so/reference/stacks.js/packages/transactions]
+https://docs.hiro.so/reference/stacks.js/packages/transactions
