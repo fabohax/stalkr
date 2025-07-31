@@ -6,12 +6,12 @@ glad to receive PRs
 
 # Sources
 
-https://hirosystems.github.io/stacks-blockchain-api/client/
+blockchain-api-client: https://hirosystems.github.io/stacks-blockchain-api/client/
 
-https://docs.stacks.co/reference/types
+clarity-v3: https://docs.stacks.co/reference/types
 
-https://docs.hiro.so/reference/stacks.js/packages/connect
+stacks-connect: https://docs.hiro.so/reference/stacks.js/packages/connect
 
-https://docs.hiro.so/reference/stacks.js/packages/network
+stacks-network: https://docs.hiro.so/reference/stacks.js/packages/network
 
-https://docs.hiro.so/reference/stacks.js/packages/transactions
+stacks-transactions:https://docs.hiro.so/reference/stacks.js/packages/transactions
