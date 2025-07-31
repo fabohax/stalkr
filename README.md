@@ -6,7 +6,7 @@ glad to receive PRs
 
 # Sources
 
-[https://hirosystems.github.io/stacks-blockchain-api/client/]
+https://hirosystems.github.io/stacks-blockchain-api/client/
 
 [https://docs.stacks.co/reference/types]
 
